@@ -1,0 +1,5 @@
+Content\Fonts\DefaultFont.xnb
+Content\Fonts\MenuFont.xnb
+Content\Textures\Splash_Background.xnb
+Content\Textures\Background.xnb
+Content\Textures\Logo.xnb

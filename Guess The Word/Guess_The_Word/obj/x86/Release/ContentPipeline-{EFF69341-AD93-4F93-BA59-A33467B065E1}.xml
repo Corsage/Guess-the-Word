@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\DefaultFont.spritefont</Source>
+      <Name>Fonts\DefaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Fonts\DefaultFont.xnb</Output>
+      <Time>2015-07-06T19:05:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2015-07-08T12:09:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Fonts\GameFont.xnb</Output>
+      <Time>2015-07-09T23:24:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Splash_Background.png</Source>
+      <Name>Textures\Splash_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Textures\Splash_Background.xnb</Output>
+      <Time>2015-07-06T18:12:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Background.png</Source>
+      <Name>Textures\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Textures\Background.xnb</Output>
+      <Time>2015-07-06T23:24:13-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Logo.png</Source>
+      <Name>Textures\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Textures\Logo.xnb</Output>
+      <Time>2015-07-15T19:03:29.4095658-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Game_Screen.png</Source>
+      <Name>Textures\Game_Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Textures\Game_Screen.xnb</Output>
+      <Time>2015-07-16T21:31:47.197123-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Timer_Screen.png</Source>
+      <Name>Textures\Timer_Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Textures\Timer_Screen.xnb</Output>
+      <Time>2015-07-16T21:30:40.4753067-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Volume_On.png</Source>
+      <Name>Textures\Volume_On</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Textures\Volume_On.xnb</Output>
+      <Time>2015-07-17T21:47:45.874005-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Volume_Off.png</Source>
+      <Name>Textures\Volume_Off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Textures\Volume_Off.xnb</Output>
+      <Time>2015-07-17T21:47:21.2285954-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\background_music.mp3</Source>
+      <Name>Music\background_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Music\background_music.xnb</Output>
+      <Extra>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\Music\background_music.wma</Extra>
+      <Time>2015-07-17T22:58:31.9578671-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EFF69341-AD93-4F93-BA59-A33467B065E1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_WordContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jay C\OneDrive\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-06-04T09:11:31.1563356-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

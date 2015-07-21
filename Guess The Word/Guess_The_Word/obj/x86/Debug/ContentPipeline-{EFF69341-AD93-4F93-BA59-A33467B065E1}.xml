@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\DefaultFont.spritefont</Source>
+      <Name>Fonts\DefaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Fonts\DefaultFont.xnb</Output>
+      <Time>2015-07-06T19:05:10.7878479-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2015-07-08T12:09:34.3080991-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Splash_Background.png</Source>
+      <Name>Textures\Splash_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Textures\Splash_Background.xnb</Output>
+      <Time>2015-07-06T18:12:16.8340683-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Background.png</Source>
+      <Name>Textures\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Textures\Background.xnb</Output>
+      <Time>2015-07-06T23:24:13.4849599-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Logo.png</Source>
+      <Name>Textures\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Textures\Logo.xnb</Output>
+      <Time>2015-07-06T23:48:55.4407229-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EFF69341-AD93-4F93-BA59-A33467B065E1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_WordContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-06-03T22:13:12.2856794-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

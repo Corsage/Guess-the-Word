@@ -1,0 +1,11 @@
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Fonts\DefaultFont.xnb
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Textures\Splash_Background.xnb
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Content\Textures\Logo.xnb
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Guess_The_Word.exe
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\bin\x86\Debug\Guess_The_Word.pdb
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\obj\x86\Debug\Guess_The_Word.exe
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\obj\x86\Debug\Guess_The_Word.pdb
+C:\Users\Jay C\documents\visual studio 2013\Projects\Guess The Word\Guess The Word\Guess_The_Word\obj\x86\Debug\Guess_The_Word.csprojResolveAssemblyReference.cache
