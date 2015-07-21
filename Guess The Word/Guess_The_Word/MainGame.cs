@@ -14,7 +14,7 @@ using Guess_The_Word.Core;
 namespace Guess_The_Word
 {
     /// <summary>
-    /// This is the main type for your game
+    /// Guess the Word
     /// </summary>
     public class MainGame : Microsoft.Xna.Framework.Game
     {
