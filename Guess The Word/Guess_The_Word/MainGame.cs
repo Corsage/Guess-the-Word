@@ -69,7 +69,6 @@ namespace Guess_The_Word
             // Create a new SpriteBatch, which can be used to draw textures.
             m_spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // m_bgm = Content.Load<Song>(@"Music/background_music");
             m_sound = Content.Load<Texture2D>(@"Textures/Volume_On");
             m_bgm = Content.Load<Song>(@"Music/background_music");
 
