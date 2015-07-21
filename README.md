@@ -1,4 +1,4 @@
-# Guess-the-Word
+# Guess the Word
 A basic scrambler game written in C# XNA for my ICS3U0 class.
 
 ### Required Library
