@@ -13,6 +13,7 @@ namespace Guess_The_Word.Game
         private static string m_newword;
 
         public static int m_lines { get; set; }
+        
         private int m_randomline;
 
         private Random m_rand = new Random();
@@ -42,11 +43,6 @@ namespace Guess_The_Word.Game
                 m_newword = new string(m_word.ToCharArray().OrderBy(s => (m_rand.Next(2) % 2) == 0).ToArray());
             }
             while (m_newword == m_word);
-        }
-
-        public void SetLine(int iLines)
-        {
-            m_lines = iLines;
         }
 
         public string OriginalWord()
