@@ -23,7 +23,7 @@ namespace Guess_The_Word.Core
         public string s_hash = "2FCD395A423C4F38B41310CBAF4C1130";
 
         public const string s_help = "A scrambled word will appear,\ntry to unscramble the word!";
-        public const string s_about = "Created by: Jayss8 (Jay C.)\n        ICS3UR-A\n          2015";
+        public const string s_about = "Created by: Jayss8 (Jay C.)\n          2015";
 
         public static bool m_music = false;
 
